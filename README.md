@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DevOps & MERN stack<br>👯 I’m looking to collaborate on a real-time Full Stack Project<br>🌱 I’m currently diving into Competitive Programming & Open Source projects<br>💬 Ask me about Cloud Technology<br>⚡ Fun fact I edit videos & shoot cinematics
+🔭 I’m currently working on real-time projects<br>👯 I’m looking to collaborate on a real-time full-stack project <br> 💬 Ask me about Cloud Technology<br>⚡ Fun fact: I edit videos & shoot cinematics
 
 
 ## 🌐 Socials:
